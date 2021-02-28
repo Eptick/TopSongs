@@ -78,10 +78,6 @@ class MyApp extends StatelessWidget {
                     scrollDirection: Axis.vertical,
                     children: [
                       SongListItem(),
-                      SongListItem(),
-                      SongListItem(),
-                      SongListItem(),
-                      SongListItem(),
                     ],
                   ),
                 )
